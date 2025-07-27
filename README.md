@@ -39,6 +39,11 @@ FULLSTACK_WITH_FRONTEND_BACKEND/
    ```
    cd backend
    npm install
+   npm init -y -->package.json,package.lock
+   npm install express mongoose cors
+   npm install  bcryptjs
+   mongod
+   
    ```
 
 2. **Configure MongoDB connection:**
@@ -78,6 +83,7 @@ FULLSTACK_WITH_FRONTEND_BACKEND/
    ```
    cd my-app
    npm install
+   npm install axios
    ```
 
 2. **User Service:**
