@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Wireless Mouse",
+    "price": 799,
+    "description": "A smooth and ergonomic wireless mouse with 2.4GHz connectivity.",
+    "category": "Electronics",
+    "brand": "LogiTech",
+    "stock": 50
+  },
+  {
+    "name": "Bluetooth Headphones",
+    "price": 1499,
+    "description": "Noise-cancelling over-ear headphones with long battery life.",
+    "category": "Audio",
+    "brand": "Boat",
+    "stock": 30
+  },
+  {
+    "name": "Gaming Keyboard",
+    "price": 1999,
+    "description": "Mechanical RGB keyboard with customizable keys.",
+    "category": "Accessories",
+    "brand": "Redragon",
+    "stock": 20
+  },
+  {
+    "name": "Smart LED Bulb",
+    "price": 599,
+    "description": "Color-changing smart bulb compatible with Alexa and Google Assistant.",
+    "category": "Home",
+    "brand": "Wipro",
+    "stock": 100
+  },
+  {
+    "name": "USB-C Charging Cable",
+    "price": 299,
+    "description": "Durable nylon braided 1.5m USB-C cable for fast charging.",
+    "category": "Mobile Accessories",
+    "brand": "MI",
+    "stock": 200
+  }
+]
