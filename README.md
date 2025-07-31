@@ -1,3 +1,4 @@
+https://chatgpt.com/share/688b9800-904c-8011-bc39-f7abf2a18894
 # Fullstack App Setup Guide
 
 ## Folder Structure
