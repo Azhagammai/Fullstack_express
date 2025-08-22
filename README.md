@@ -143,5 +143,8 @@ FULLSTACK_WITH_FRONTEND_BACKEND/
 - HTML template: `my-app/public/index.html`
 
 ---
+### If getting Network Error 
+---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5baee20-00b7-42f6-8f65-0edd16e7b832" />
 
 **Now you have a working fullstack app with React frontend, Express backend, and MongoDB
